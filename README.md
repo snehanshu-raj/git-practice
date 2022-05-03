@@ -12,7 +12,10 @@ git pull origin _branch_name_
 ```
 ## Make changes and commits
 ```
-git pull
+git pull 
+```
+If you are trying to pull but made changes to some file then it will first ask you commit your changes and abort the pull, if its a new file not present there in the branch then it will pull it sucessfully.
+```
 git status
 git add file_name _or_ git add .
 git commit -m "message"
