@@ -1,1 +1,2 @@
 coming from folder 1
+new line 
