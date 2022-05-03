@@ -3,8 +3,10 @@
 2. do **git init**.
 3. do **ls -a** to view the _.git_ folder.
 ## Get the repository
-1. **git clone _url_**
-2. or
+```
+git clone _url_
+```
+or
 ```
 git init
 git remote add _url_
