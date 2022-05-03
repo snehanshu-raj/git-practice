@@ -11,4 +11,13 @@ git init
 git remote add _url_
 git pull origin _branch_name_
 ```
+## Make changes and commits
+```
+git pull
+git status
+git add file_name _or_ git add .
+git commit -m "message"
+git push
+```
+
 
